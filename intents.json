@@ -1,0 +1,25 @@
+[
+  {
+    "intentName": "CheckBalance",
+    "trainingPhrases": [
+      "What is my balance?",
+      "Check my balance"
+    ],
+    "response": "Your balance is $500."
+  },
+  {
+    "intentName": "Test Intent",
+    "trainingPhrases": [
+      "Test"
+    ],
+    "response": "Test response"
+  },
+  {
+    "intentName": "NewName",
+    "trainingPhrases": [
+      "one",
+      "two"
+    ],
+    "response": "three"
+  }
+]
